@@ -2,7 +2,7 @@
 
 **Name:** Solaiman Alwazir
 
-> **Repo link:** _replace this line with the URL of your public GitHub repo_
+> **Repo link:** https://github.com/salwazir/Lab7_Starter
 
 ---
 
