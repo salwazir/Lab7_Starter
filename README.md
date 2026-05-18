@@ -6,6 +6,14 @@
 
 ---
 
+## Expose — Test Results (`npm test` on `lab7.test.js`)
+
+All 9 tests pass:
+
+![npm test results](test-results.png)
+
+---
+
 ## Check Your Understanding
 
 ### 1) Where would you fit your automated tests in your Recipe project development pipeline? Select one and explain why.
